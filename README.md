@@ -29,7 +29,7 @@ I'm a Computer Engineering student at the University of Illinois, with a minor i
 - **Games Center**
   - Developed a games center with games like tic-tac-toe, hangman, and connect-4 with a backend server that counts wins/losses for all combined games. Shows a leadership list at the end of each week
 
-## 📬 Le t's Connect
+## 📬 Let's Connect
 - [LinkedIn](www.linkedin.com/in/adityasaxena1509)
 - [GitHub](https://github.com/adisaxena15)
 - [Email](mailto:saxena11@illinois.edu)
